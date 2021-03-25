@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "a8491b3b8504dea3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b25552b664f3cd93",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "basic.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7581504691690654",
+    "type": "split",
+    "children": [
+      {
+        "id": "d54b9b82cd549011",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff5e093d31bd5dcc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "de6dbb8fec7f6bd4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bcfa544e8c534b45",
+    "type": "split",
+    "children": [
+      {
+        "id": "78092a67514b48bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "465a796b4c05b9d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "basic.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "basic.md",
+    "why is vim fkn the best.md",
+    "thoughtbot.md",
+    "Untitled.md",
+    "hotkeys.md"
+  ]
+}

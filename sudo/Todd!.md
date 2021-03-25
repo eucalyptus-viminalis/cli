@@ -1,0 +1,5 @@
+![[todd_ducktape_man.gif]]
+![[todd@uunet.uu.net.gif]]
+![[todd_evi_grad.gif]]
+![[millert.cinci.gif]]
+![[halloween_92.gif]]
