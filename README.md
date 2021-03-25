@@ -35,5 +35,5 @@ for (i = 0; i < total; i++) {
 ...
 ```
 
-[url to my blog](sparky.blog)
+[url to my blog](https://sparky.blog)
 
